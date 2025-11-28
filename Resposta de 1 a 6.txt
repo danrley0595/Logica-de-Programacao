@@ -1,0 +1,15 @@
+1- Possui uma ordem a ser executada, primeiro será o if, depois o elif e por ultimo o else. Sem o if o elif e o else não funcionam.
+
+2- O for possui uma condição de parada já definida antes de iniciar o loop, o while enquanto a condição for verdadeira o loop continuará sendo executado.
+
+3 - Condição de parada no while significa que enquanto essa condição for verdadeira o loop continuara a ser executado, quando a condição for falsa o loop será interrompido.
+
+4- Porque não sabemos a quantidade de loop que será executado e no for precisamos definir no inicio do loop.
+
+5 - Função utilizada para gerar uma serie de números
+start -> define o primeiro da sequencia a ser gerada
+stop -> Onde é definido o limite da sequencia ser gerada, a contagem para antes de atingir esse valor.
+step -> Define o intervalo entre cada número a ser gerado, se for positivo a contagem é crescente, se negativo a contagem é decrescente.
+
+6 - Contador -> utilizado para contar a quantidade vezes que algo ocorreu, sempre incrementado ou diminuído(+1, -1).
+    Acumulador -> utilizado para somar ou acumular valores que mudam a cada interação, ele e incrementado ou diminuído por uma valor variável, bastante utilizado para obter a soma de valores.
